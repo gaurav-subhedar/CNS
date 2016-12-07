@@ -3,7 +3,7 @@ CNS Fall 2016 project
 
 Please run the shell script ./script.sh
 Enter your password
-The script will evaluate the score of your password. Lower the score indicates a better password. Typically the score should be less than 0.15~0.20.
+The script will evaluate the score of your password. Lower the score indicates a better password. Typically the score should be less than 0.10~0.15.
 
 Dependecies - 
 You will need torch installed.
