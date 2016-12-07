@@ -1,8 +1,8 @@
 # CNS
-CNS Fall 2016 project
-
-Please run the shell script ./script.sh
-Enter your password
+CNS Fall 2016 project  
+Delete the log.txt file before executing the script every time  
+Please run the shell script ./script.sh  
+Enter your password  
 The script will evaluate the score of your password. Lower the score indicates a better password. Typically the score should be less than 0.10~0.15.
 
 Dependecies - 
