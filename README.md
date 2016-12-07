@@ -8,15 +8,16 @@ The script will evaluate the score of your password. Lower the score indicates a
 Dependecies - 
 You will need torch installed.
 
-$ curl -s https://raw.githubusercontent.com/torch/ezinstall/master/install-deps | bash
-$ git clone https://github.com/torch/distro.git ~/torch --recursive
-$ cd ~/torch 
-$ ./install.sh      # and enter "yes" at the end to modify your bashrc
-$ source ~/.bashrc
+$ curl -s https://raw.githubusercontent.com/torch/ezinstall/master/install-deps | bash  
+$ git clone https://github.com/torch/distro.git ~/torch --recursive  
+$ cd ~/torch  
+$ ./install.sh  
+enter "yes" at the end to modify your bashrc  
+$ source ~/.bashrc  
 
-Also some packages.
+Also some packages.  
 
-$ luarocks install nngraph
-$ luarocks install optim
-$ luarocks install nn
+$ luarocks install nngraph  
+$ luarocks install optim  
+$ luarocks install nn  
 
